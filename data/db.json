@@ -1,5 +1,5 @@
 {
-    "solutions":[
+    "solutions":
         [
             {"id": 1, "word": "apple"},
             {"id": 2, "word": "brave"},
@@ -53,5 +53,4 @@
             {"id": 50, "word": "zesty"}
         ]
         
-    ]
 }

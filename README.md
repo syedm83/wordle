@@ -15,7 +15,7 @@ Welcome to my Wordle Clone! This project is a web-based implementation of the po
 - **CSS**: Provides styling and layout for the game interface.
 
 ## Game Images
--**User Input**
+- **User Input**
 ![Screenshot (89)](https://github.com/user-attachments/assets/a695b291-0512-4f8f-9564-53609d09f58f)
 ![Screenshot (92)](https://github.com/user-attachments/assets/540a3459-a52d-4df2-a378-3861295a2ce8)
 

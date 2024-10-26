@@ -2,6 +2,8 @@
 
 Welcome to my Wordle Clone! This project is a web-based implementation of the popular word-guessing game "Wordle," built using React. The goal of the game is to guess the hidden five-letter word within six attempts. With each guess, the game provides feedback on how close your guess is to the actual word by highlighting letters that are correct and in the right position or correct but in the wrong position.
 
+Try it for yourself [here](https://syedm83.github.io/wordle/)!
+
 ## Features
 - **Interactive Gameplay**: Enter a guess and receive color-coded feedback on letter correctness.
 - **Responsive Design**: Enjoy seamless gameplay on both desktop and mobile devices.
